@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW5/LargeInt.h
+vector
+-
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW5/main.cpp
+iostream
+-
+LargeInt.h
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW5/LargeInt.h
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW7/City.h
+string
+-
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW7/main.cpp
+string
+-
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+algorithm
+-
+City.h
+/Users/stuckil/Desktop/Ignite/CPP/Logan_Stucki_HW7/City.h
+

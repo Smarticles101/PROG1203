@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW4/Phrase.cpp
+vector
+-
+Phrase.h
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW4/Phrase.h
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW4/Phrase.h
+string
+-
+

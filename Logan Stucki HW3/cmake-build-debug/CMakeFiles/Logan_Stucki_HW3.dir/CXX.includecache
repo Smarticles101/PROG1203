@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW3/Number.cpp
+cmath
+-
+iostream
+-
+Number.h
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW3/Number.h
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW3/Number.h
+
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW3/main.cpp
+iostream
+-
+Number.h
+/Users/stuckil/Desktop/Ignite/CPP/Logan Stucki HW3/Number.h
+
